@@ -1,5 +1,10 @@
 # 📊 Customer Churn Prediction & Retention Analytics
 
+📌 **Live Dashboard**:  
+https://public.tableau.com/app/profile/vyshanvi.yakkanti/viz/PredictiveCustomerChurnRetentionAnalysis/Dashboard1  
+
+📌 **Dataset**: Telco Customer Churn (Kaggle)
+
 An end-to-end **data analytics and machine learning project** focused on predicting customer churn, identifying high-risk segments, and quantifying revenue at risk to support proactive retention strategies.
 
 This project demonstrates the full analytics lifecycle from raw data ingestion and SQL-based data engineering to machine learning modelling and executive-ready dashboarding.
