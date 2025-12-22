@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environment / secrets
+.env
+*.env
+
+# Mac system files
+.DS_Store
+
+# Optional: large files (commented for now)
+# data/
+# models/
+
+
