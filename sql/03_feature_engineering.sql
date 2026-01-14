@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS clean_telco_v2;
+CREATE TABLE clean_telco_v2 AS ...
+
+DROP TABLE IF EXISTS clean_telco_v3;
+CREATE TABLE clean_telco_v3 AS ...
+
