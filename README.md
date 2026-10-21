@@ -43,7 +43,8 @@ into business-facing insights that decision-makers can act on.
 ## 📁 Project Structure
 
 ```text
-churn-etl-project/
+
+churn-prediction-analytics/
 ├── data/
 │   └── telco_churn.csv
 ├── sql/
@@ -53,11 +54,6 @@ churn-etl-project/
 ├── notebooks/
 │   ├── 01_load_csv_to_mysql.ipynb
 │   └── 02_churn_modeling_pipeline.ipynb
-├── output/
-│   ├── predictions_for_powerbi.csv
-│   ├── logreg_model.joblib
-│   ├── rf_model.joblib
-│   └── scaler.joblib
 └── README.md
 ```
 
